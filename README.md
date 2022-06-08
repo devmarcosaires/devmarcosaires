@@ -18,6 +18,6 @@
 
  </div>
 <br/>
- Apaixonado por tecnologia!
+ Sempre aberto ao aprendizado!
 
 
