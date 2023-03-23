@@ -1,4 +1,4 @@
-### Olá! Eu sou o Marcos Henrique Aires 🤙
+### Hello! I'm Marcos Henrique Aires 🤙
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-henrique-aires-98b4261b8/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosaairees/)
@@ -6,7 +6,7 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=devmarcosaires&show_icons=true&theme=dracula)
 
-### Tecnologias que eu utilizo 
+### Technologies I use
 
 <div style="display: inline_block"><br/>
 
@@ -18,6 +18,6 @@
 
  </div>
 <br/>
- Sempre aberto ao aprendizado!
+Always open to learning!
 
 
